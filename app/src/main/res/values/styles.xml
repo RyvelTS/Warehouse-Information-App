@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="defaultedittext">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:autofillHints"></item>
+        <item name="android:drawableStart">@drawable/ic_uil_postcard</item>
+        <item name="android:drawablePadding">8dp</item>
+        <item name="android:ems">10</item>
+        <item name="android:inputType">number</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="secondarybutton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">4dp</item>
+        <item name="android:backgroundTint">#FFFFFF</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingBottom">12dp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">#898989</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="primarybutton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingLeft">64dp</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingRight">64dp</item>
+        <item name="android:paddingBottom">12dp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="title">
+        <item name="android:fontFamily">sans-serif-black</item>
+        <item name="android:textColor">#037FD9</item>
+        <item name="android:textSize">32sp</item>
+    </style>
+</resources>

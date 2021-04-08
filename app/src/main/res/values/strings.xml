@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Ryvel-2018939060053-Final</string>
+    <string name="log_in">Log In</string>
+    <string name="register">Register</string>
+    <string name="or">Or</string>
+    <string name="your_student_id">Your Student ID</string>
+    <string name="your_password">Your Password</string>
+    <string name="welcome_back">Welcome Back !</string>
+    <string name="login_illustration">Login Illustration</string>
+    <string name="your_name">Your Name</string>
+    <string name="create_your_password">Create Your Password</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="new_commodity">New Commodity</string>
+    <string name="actions">Actions</string>
+    <string name="add_commodity">Add Commodity</string>
+    <string name="manufacturer">Manufacturer / Factory</string>
+    <string name="price">Price</string>
+    <string name="storage_location">Storage Location</string>
+    <string name="number">Number</string>
+    <string name="name">Name</string>
+    <string name="view_commodities">View Commodities</string>
+    <string name="rmb_commodity_number_id">RMB ___ | Commodity Number | ID :</string>
+    <string name="commodity_name_1">Commodity Name 1</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="edit_commodity">Edit Commodity</string>
+</resources>
